@@ -1,0 +1,3 @@
+Para el frontis principal: http://addons.prestashop.com/demo/FO15481.html
+
+Para la experiencia de compra (a la hora de agregar al carrito): http://addons.prestashop.com/es/demo/FO15246.html
