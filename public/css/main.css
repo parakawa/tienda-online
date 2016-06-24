@@ -1,5 +1,6 @@
-body{
-	background-color: #E6E6E6;
+/******Home*******/
+.bg-gray{
+ background-color: #E6E6E6;
 }
 
 #slider { 
@@ -67,3 +68,59 @@ padding: 0;
   border-radius: 2px 2px 2px 2px;
   margin: 0 auto;
 }
+
+/******Carrito*****/
+
+.tabla-carrito thead{
+	background-color: #FBFBFB;
+}
+
+.tabla-carrito tbody td img{
+	width: 100px;
+}
+
+.tabla-carrito tbody > tr > td{
+	
+}
+
+.tabla-carrito tbody>tr>td:nth-child(3){
+	color:#00985F;
+}
+
+.tabla-carrito tbody > tr > td>button{
+	border: none;
+	background-color: white;
+}
+
+.tabla-carrito tbody > tr > td>button:hover{
+	color: #EE6E73;
+}
+
+.tabla-carrito tbody > tr > td i{
+	font-size: 18px;
+}
+
+/****cantidad****/
+.tabla-carrito tbody > tr > td>input{
+	width: 57px;
+}
+
+.tabla-carrito tbody > tr > td .cant i{
+	font-size: 10px;
+}
+
+.tabla-carrito tbody > tr > td .cant button{
+	border: none;
+	padding: 4px 9px;
+	margin-top: 4px;
+}
+
+.tabla-carrito tbody > tr > td .cant button:active{
+	background-color: #00985F;
+}
+
+
+.green{
+	color: #00985F;	
+}
+
